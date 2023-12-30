@@ -14,7 +14,7 @@
 
    Choose your own architecture. You can use LSTM/Transformer/CNN layers of PyTorch lib.
    
-Implement at least one decoding algorithm. You can use Beam Search/Top-p Sampling/Top-k Sampling/Temperature Process as your decoding algorithm
+   Implement at least one decoding algorithm. You can use Beam Search/Top-p Sampling/Top-k Sampling/Temperature Process as your decoding algorithm.
    
    Generate correct sequences. Use \<BOS> and \<EOS> or something to control.
 
