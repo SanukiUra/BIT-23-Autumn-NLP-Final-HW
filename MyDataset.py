@@ -1,6 +1,5 @@
 import pandas as pd
 import os
-import spacy
 import nltk
 from nltk.tokenize import word_tokenize
 import numpy as np
