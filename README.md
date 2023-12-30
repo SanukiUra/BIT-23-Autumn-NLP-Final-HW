@@ -9,6 +9,7 @@
 ## Assignment Requirements
 
 1. Story Generation
+
    Use Dataset [ROCStories](https://cs.rochester.edu/nlp/rocstories/) for generation. Given the first sentence and generate the next four sentences.
 
    Choose your own architecture
@@ -21,6 +22,7 @@
    Use \<BOS> and \<EOS> or something to control.
 
 2. Fine-Tuning LLMs
+
    Use an LLM (GPT2/LLaMA/...)  and fine-tune it using suitable methods. 
 
 3. Evaluation Your Model
