@@ -4,6 +4,8 @@
 
 📚 2023 Autumn NLP Course Assignment
 
+✍️ by Sanuki Ura 宇良讚歧
+
 ## Assignment Requirements
 
 1. Story Generation
