@@ -12,14 +12,11 @@
 
    Use Dataset [ROCStories](https://cs.rochester.edu/nlp/rocstories/) for generation. Given the first sentence and generate the next four sentences.
 
-   Choose your own architecture
-   You can use LSTM/Transformer/CNN layers of PyTorch lib.
-
-   Implement at least one decoding algorithm
-   You can use Beam Search/Top-p Sampling/Top-k Sampling/Temperature Process as your decoding algorithm
-
-   Generate correct sequences
-   Use \<BOS> and \<EOS> or something to control.
+   Choose your own architecture. You can use LSTM/Transformer/CNN layers of PyTorch lib.
+   
+Implement at least one decoding algorithm. You can use Beam Search/Top-p Sampling/Top-k Sampling/Temperature Process as your decoding algorithm
+   
+   Generate correct sequences. Use \<BOS> and \<EOS> or something to control.
 
 2. Fine-Tuning LLMs
 
